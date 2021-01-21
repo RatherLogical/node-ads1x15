@@ -1,10 +1,7 @@
-
 // javascript/node  rewrite of the Adafruit ads1x15 python library...
 var i2c = require('i2c'); 
-var async = require('async');
 
 // chip
-
 IC_ADS1015 = 0x00
 IC_ADS1115 = 0x01
 
