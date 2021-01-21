@@ -1,6 +1,6 @@
 {
   "name": "dzltest-ads1x15",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Node module for the I2C ADS1x15 analog to digital converters to run on Raspberry Pi",
   "main": "index.js",
   "repository": {
